@@ -3,7 +3,8 @@
 ## How to improve model stability when calculating the sample size and accuracy when estimating a prediction model
 by Menelaos Pavlou, Rumana Omar, Gareth Ambler
 
-![Slide1](https://github.com/mpavlou/ISCB2024_Poster_MP/assets/78787823/71aa06ff-90bb-404b-b9cc-4ae6026bec73)
+
+![Slide1](https://github.com/mpavlou/ISCB2024_Poster_MP/assets/78787823/52921611-fd9a-4469-a287-2b6a9d8fca92)
 
 ## References
 
