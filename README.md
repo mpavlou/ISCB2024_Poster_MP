@@ -3,6 +3,8 @@
 ## How to improve model stability when calculating the sample size and accuracy when estimating a prediction model
 by Menelaos Pavlou, Rumana Omar, Gareth Ambler
 
+![Slide1](https://github.com/mpavlou/ISCB2024_Poster_MP/assets/78787823/71aa06ff-90bb-404b-b9cc-4ae6026bec73)
+
 ## References
 
 1. Riley R D, Ensor J, Snell K I E, Harrell F E, Martin G P, Reitsma J B et al. Calculating the sample size required for developing a clinical prediction model BMJ 2020; 368 :m441 doi:10.1136/bmj.m441
