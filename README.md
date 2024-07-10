@@ -1,8 +1,7 @@
 # ISCB2024_Poster_MP
 
 ## How to improve model stability when calculating the sample size and accuracy when estimating a prediction model
-
-By Menelaos Pavlou, Rumana Omar, Gareth Ambler
+by Menelaos Pavlou, Rumana Omar, Gareth Ambler
 
 ## References
 
