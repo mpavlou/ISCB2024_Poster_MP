@@ -4,7 +4,8 @@
 by Menelaos Pavlou, Rumana Omar, Gareth Ambler
 
 
-![Slide1](https://github.com/mpavlou/ISCB2024_Poster_MP/assets/78787823/52921611-fd9a-4469-a287-2b6a9d8fca92)
+![Slide1](https://github.com/mpavlou/ISCB2024_Poster_MP/assets/78787823/0a0b3c80-5cbd-4f50-aa9f-3262e7d95df1)
+
 
 ## References
 
